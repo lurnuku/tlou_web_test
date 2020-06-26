@@ -1,0 +1,29 @@
+html {
+	background-color: white;
+	font-family: 'Odibee Sans', cursive;
+	font-size: 40px;
+}
+
+body {
+	width: 800px;
+	margin:0 auto;
+	padding: 0 20px 20px 20px;
+	border: 3px solid black;;fps 1
+
+}
+
+p {
+	text-align: center;
+	margin: auto;
+	padding: 20px 20px;
+	text-shadow: 3px 3px 1px black;
+	width: 500px;
+	color: thistle;
+	
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+	width: 600px;
+}
